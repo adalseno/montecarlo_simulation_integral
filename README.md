@@ -7,4 +7,4 @@ We can approximate the area with the formula <img src="https://render.githubuser
 
 Thanks to Andrew Dotson video https://www.youtube.com/watch?v=WAf0rqwAvgg
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adalseno/montecarlo_simulation_integral/HEAD?filepath=Monte%20Carlo%20simulation%20for%20integral.ipynb)
+Try it live on [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adalseno/montecarlo_simulation_integral/HEAD?filepath=Monte%20Carlo%20simulation%20for%20integral.ipynb)
