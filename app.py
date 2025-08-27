@@ -27,10 +27,7 @@ def compute_area(a: float, b: float, N: int) -> np.ndarray:
         within the given bounds.
     """
 
-    areas = np.empty(N)
-    for i in range(N):
-        areas[i] = (b - a) / N * np.sin(np.random.uniform(a, b, N)).sum()
-    return areas
+    return (b - a) / N * np.sin(np.random.uniform(a,b,(N,N))).sum(axis=1)
 
 
 # Limits
