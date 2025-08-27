@@ -11,4 +11,4 @@ $$(b-a) \frac {1}{N} \sum_{i=1}^{N} f(x_i) \rightarrow (b-a) \frac {1}{N} \sum_{
 
 Thanks to Andrew Dotson video https://www.youtube.com/watch?v=WAf0rqwAvgg
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://adalseno-mc-pi-st-app-z0t5o2.streamlitapp.com/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://montecarlosimulationintegral-5xfuc7etwstxpo5cxqfqu.streamlitapp.com/)
