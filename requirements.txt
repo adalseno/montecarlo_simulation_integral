@@ -1,2 +1,5 @@
-numpy
+numba==0.61.2
+pandas
+numpy==2.2.6
 matplotlib
+streamlit
